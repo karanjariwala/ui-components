@@ -1,5 +1,5 @@
 {
-  "name": "ui-components",
+  "name": "in-ui-components-react",
   "version": "1.0.0",
   "description": "React component library ",
   "main": "build/index.js",
